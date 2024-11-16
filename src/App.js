@@ -9,7 +9,7 @@ function App() {
         <span class="bold-text">info-tasjil </span>
       </div>
       <ul className="navbar-links">
-        <li><a href="#home">Home</a></li>
+        <li><a href="#home">Hojhgfme</a></li>
         <li><a href="#blog">Blog</a></li>
         <li><a href="#single-post">Single Post</a></li>
         <li><a href="#pages">Pages</a></li>
